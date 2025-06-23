@@ -4,4 +4,5 @@ df = pd.DataFrame(
 )
 print(df)
 
-df.append.abs
+text = "삼성전자"
+print(text)
