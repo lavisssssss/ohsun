@@ -4,4 +4,4 @@ df = pd.DataFrame(
 )
 print(df)
 
-df.append
+df.append.abs
