@@ -6,4 +6,4 @@ print(df)
 
 text = "삼성전자"
 print(text)
-print(text * 55)
+print(text * 77)
