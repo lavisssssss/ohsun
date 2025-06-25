@@ -1,4 +1,4 @@
-쿠폰2브런치에서 수정해버리기, commit한번더하기
+쿠폰2브런치에서 수정해버리기 commit1 추가하기
 
 >>>>>>> coupon2
 aaaaaaaa.good
