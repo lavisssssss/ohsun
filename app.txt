@@ -1,4 +1,6 @@
-메인브랜치에서 코드 수정해버리기
+쿠폰2브런치에서 수정해버리기
+
+>>>>>>> coupon2
 aaaaaaaa.good
 bbbbbb.bad
 test.3
