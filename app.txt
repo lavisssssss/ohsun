@@ -1,4 +1,5 @@
 쿠폰2브런치에서 수정해버리기 commit1 추가하기
+그다음에 커밋2 만들기
 
 >>>>>>> coupon2
 aaaaaaaa.good
