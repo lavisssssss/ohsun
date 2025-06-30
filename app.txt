@@ -1,0 +1,10 @@
+쿠폰2브런치에서 수정해버리기 commit1 추가하기
+그다음에 커밋2 만들기
+
+>>>>>>> coupon2
+aaaaaaaa.good
+bbbbbb.bad
+test.3
+asdfasdkfj
+
+test2에 브랜치추가2
